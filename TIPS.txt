@@ -1,0 +1,24 @@
+- This is a tactical, turn-based game. 
+Nothing happens unless a player performs an action (moves, attacks, uses item, etc.), which means there is no reason to rush. 
+
+- Take your time and avoid the fights you can't win.
+
+- If you get in a room full of enemies, try to find an open, narrow passage from where you can fight them one at a time.
+
+- Try to save as many healing potions as you can. They will appear less frequently in the later levels. 
+Healing spell is weaker than a potion.
+
+- You can mouse over items on the ground. Use this to check what certain items (or enemies) are. Many scrolls look the same, but they aren't.
+
+- Balance out your character levels. 
+Having more defense and HP at the start is a good idea, but zero resistance will make your life a living hell at higher dungeon levels.
+
+- You get souls by killing enemies. Souls are used as currency and can be spent at merchants for items.
+Check how much souls you have by pressing "c" key. Shopping is done by pressing "s" when near a merchant.
+
+- Each body part corresponds to one equipment piece. Thus, you can't wear two chain mails, or two helmets, etc.
+
+- Monsters at higher levels have more resistance. Use your mana wisely.
+
+- The red dagger you get in dungeon level 19, if properly used, is the best item in the game.
+Use it as you would any spellbook.
